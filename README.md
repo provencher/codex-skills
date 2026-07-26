@@ -4,7 +4,7 @@ Reusable skills for OpenAI Codex.
 
 ## Orchestrate
 
-[`orchestrate`](orchestrate) encourages Codex to delegate complex work across focused agents, then integrate their results. Trivial tasks stay with the coordinator.
+[`orchestrate`](orchestrate) encourages Codex to delegate large-scope work across focused agents, then integrate their results. Trivial tasks stay with the coordinator.
 
 The pattern comes from [Practical multi-agent orchestration in Codex](https://x.com/pvncher/status/2080707291603407077).
 

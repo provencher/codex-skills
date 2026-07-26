@@ -1,6 +1,6 @@
 ---
 name: orchestrate
-description: Orchestrate multiple agents for complex work. Use when a task benefits from parallelism or specialized reasoning; skip trivial tasks.
+description: Coordinate multiple agents on large-scope tasks. Use whenever the work is substantial; trivial tasks do not require this skill.
 ---
 
 # Orchestrate
