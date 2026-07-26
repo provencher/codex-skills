@@ -1,4 +1,4 @@
 interface:
   display_name: "Orchestrate"
-  short_description: "Coordinate focused multi-agent work"
-  default_prompt: "Use $orchestrate to coordinate this task across focused agents."
+  short_description: "Manage complex work across agents"
+  default_prompt: "Use $orchestrate to manage this complex task across focused agents."
