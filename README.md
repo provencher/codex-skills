@@ -1,6 +1,6 @@
 # Codex Skills
 
-Reusable skills for OpenAI Codex.
+Reusable skills for ChatGPT work and Codex.
 
 ## Orchestrate
 
